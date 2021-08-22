@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(240, 233, 233);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#main {
+
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#image {
+    height: 600px;
+    margin-left: 170px;
+}
+
+#img-caption {
+    width: 920px;
+    margin-left: 170px;
+    font-family: 'Times New Roman', Times, serif;  
+    font-size: 15px; 
+}
+
+#tribute-info {
+    width: 900px;
+    margin-left: 200px;
+}
